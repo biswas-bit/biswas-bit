@@ -1,5 +1,24 @@
-# 💫 About Me:
-i'm a Backend Engineer with expertise in Django and REST APIs, passionate about building scalable and efficient web applications. Currently, I'm deep-diving into Data Structures and Algorithms (DSA) to sharpen my problem-solving skills.<br><br>💼 Experience & Projects<br>Digi Kishan Sathi: An AI-powered e-commerce platform for farmers, integrating price recommendations and product recommendations using user engagement data.<br>Buzz Talk: A real-time chat application leveraging Django WebSockets.<br>Farmr.io: Implementing a caching-based product recommendation system using Redis to optimize server performance.<br>Crop Disease Detection: A web-based platform with an interactive UI for scanning and diagnosing plant diseases.
+## 💫 About Me
+I'm a **Backend Engineer** with expertise in **Django** and **REST APIs**, passionate about building scalable and efficient web applications. Currently, I'm deep-diving into **Data Structures and Algorithms (DSA)** to sharpen my problem-solving skills.
+
+## 💼 Experience & Projects
+
+- **Digi Kishan Sathi**  
+  An AI-powered e-commerce platform for farmers, integrating price recommendations and product suggestions using user engagement data.
+
+- **Buzz Talk**  
+  A real-time chat application built with Django WebSockets for seamless live communication.
+
+- **Farmr.io**  
+  A caching-based product recommendation system using Redis to enhance server performance and scalability.
+
+- **Crop Disease Detection**  
+  A web-based tool with an interactive UI for uploading plant images, scanning them, and diagnosing crop diseases using ML.
+
+- **Nyaya Sathi**  
+  A legal guidance chatbot built using Retrieval-Augmented Generation (RAG), helping general Nepali citizens access legal knowledge in simple terms.
+
+---
 
 
 ## 🌐 Socials:
