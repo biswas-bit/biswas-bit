@@ -1,4 +1,4 @@
-# 🚀 Biswas Pokhrel | Data Science & Backend Engineer
+# 🚀 Biswas Pokhrel | Data Science
 
 <div align="center">
   
@@ -14,7 +14,7 @@
 
 ## 💫 **About Me**
 
-🎯 **Data Science & Backend Engineer** with expertise in building **intelligent web applications** and **scalable APIs**. Passionate about integrating **machine learning models** into production systems and solving complex problems with **data-driven solutions**.
+🎯 **Data Science** with expertise in building **intelligent web applications** and **scalable APIs**. Passionate about integrating **machine learning models** into production systems and solving complex problems with **data-driven solutions**.
 
 🔭 Currently diving deep into **Machine Learning Operations (MLOps)** and advanced **Data Structures & Algorithms** to enhance system performance and model deployment efficiency.
 
@@ -112,16 +112,6 @@
 
 ---
 
-## 🌟 **Specializations & Expertise**
-
-<div align="center">
-
-| 🧠 **Machine Learning** | 🔧 **System Integration** | 📊 **Data Analytics** | 🚀 **Performance** |
-|:---:|:---:|:---:|:---:|
-| **ML Model Deployment** | **API Development** | **Statistical Analysis** | **Caching Strategies** |
-| Production ML Systems | RESTful & WebSocket APIs | Financial Data Analysis | Database Optimization |
-| NLP & Computer Vision | Data Pipeline Architecture | Customer Segmentation | Real-time Processing |
-| MLOps & Model Monitoring | Microservices Design | Predictive Analytics | Scalable Systems |
 
 </div>
 
