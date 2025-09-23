@@ -24,7 +24,7 @@
   
 **🎯 Open for Data Science & ML Engineering Opportunities | Ready to Start Immediately**
 
-[![Email](https://img.shields.io/badge/📧_Contact_Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biswaspokhrel372@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Contact_Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pokhrelbiswas53@gmail.com)
 
 </div>
 
@@ -158,7 +158,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61557661250094)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/biswas.pokhrel.372/)
 
-**📧 Direct Contact:** `biswaspokhrel372@gmail.com`
+**📧 Direct Contact:** `pokhrelbiswas53@gmail.com`
 **💬 Always open to discussing innovative projects and opportunities!**
 
 </div>
